@@ -1,0 +1,19 @@
+{
+  "name": "gb/sou_jr_prcesso",
+  "description": "Um projeto PHP para seleção de freela PHP com a SouJunior.",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Gilvanei Bispo",
+      "email": "gilvanei.pereira@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {
+  }
+}
