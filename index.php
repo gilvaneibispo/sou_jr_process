@@ -1,7 +1,7 @@
 <?php
 ini_set('display_errors', true);
 require_once("vendor/autoload.php");
-require_once("figure_handler.php");
+#require_once("figure_handler.php");
 
 use App\FigureBuilder;
 use App\Figure;

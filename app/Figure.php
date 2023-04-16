@@ -74,5 +74,4 @@ class Figure
         // Verifica se é uma posição de interesse para imprimir o asterisco.
         return $col == $line || $col == ($this->numberCols - 1) - $line ? "*" : ".";
     }
-
 }
